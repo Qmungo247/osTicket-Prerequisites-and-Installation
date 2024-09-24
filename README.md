@@ -20,7 +20,7 @@ An outline of the prerequisites and installation of the open-source help desk ti
 
 <h2>List of Prerequisites</h2>
 
-- Create VM in Azure
+- Download OsTicket Installation Files Software
 - Item 2
 - Item 3
 - Item 4
