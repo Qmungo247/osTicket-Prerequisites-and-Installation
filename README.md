@@ -21,7 +21,8 @@ An outline of the prerequisites and installation of the open-source help desk ti
 <h2>List of Prerequisites</h2>
 
 - Download OsTicket Installation Files Software
-- Item 2
+- Installation/Enable Internet Information Services (IIS) in Windows with CGI.
+  A web server that Runs Osticket on the PC. 
 - Item 3
 - Item 4
 - Item 5
