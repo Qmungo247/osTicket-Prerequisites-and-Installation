@@ -32,9 +32,15 @@ An outline of the prerequisites and installation of the open-source help desk ti
 
   ![Screenshot 2024-09-24 163156](https://github.com/user-attachments/assets/5d141eb2-6812-4bca-8717-d6f3bdbf8892)
 
+![Screenshot 2024-09-25 142538](https://github.com/user-attachments/assets/8f2966ab-8e1d-4b15-9bad-267ca64218e5)
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After Downloading & Installing the OsTicket files software. You want to enable Internet Information Services & CGI in the control panel of the PC. 
+Control Panel > Programs > Programs & Features > Click "Turn Windows Features on or off" Link on the left hand side. Scroll down to & check "Internet Information Services".
+Then expand the folder > Expand "World Wide web services" folder > Expand "Application Development Features" Folder > Check CGI then click OK
+  
 </p>
 <br />
 
