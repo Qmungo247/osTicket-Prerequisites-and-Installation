@@ -45,15 +45,25 @@ Then expand the folder > Expand "World Wide web services" folder > Expand "Appli
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  ![Screenshot 2024-09-26 162305](https://github.com/user-attachments/assets/c9036462-bf00-4d72-89f4-02d9a358dcdd)
+
+  ![Screenshot 2024-09-26 162826](https://github.com/user-attachments/assets/e6c66eb0-a41b-43e1-b5d9-d7ad28f6d789)
+
+  ![Screenshot 2024-09-26 163019](https://github.com/user-attachments/assets/a04ab6ef-25aa-4d50-995e-9c34961d517e)
+
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+From the "OsTicket Installation Files" Folder downloaded in the frist step, install PHP Manager for IIS. Next Install Rewrite Module. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
