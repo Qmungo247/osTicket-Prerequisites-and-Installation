@@ -62,10 +62,15 @@ From the "OsTicket Installation Files" Folder downloaded in the frist step. Inst
 
 <p>
 
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ ![Screenshot 2024-09-26 165459](https://github.com/user-attachments/assets/dac63c10-7a43-417b-951b-789a9332d302)
+
+ ![Screenshot 2024-09-26 165544](https://github.com/user-attachments/assets/1ef9e6ab-a95b-48b4-81a9-ed7bbfd8a434)
+
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+From the "OsTicket Installation Files Folder Install "VC Redist" & "MySQL5.5.62" Typical Setup > Launch Configuration Wizard (after install) >
+Standard Configuration > Username: root Password: root
+
 </p>
 <br />
