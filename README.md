@@ -74,3 +74,26 @@ Standard Configuration > Next >  Username: root Password: root
 
 </p>
 <br />
+
+<p>
+
+![Screenshot 2024-09-26 193630](https://github.com/user-attachments/assets/d4b7236c-48d6-45c5-8170-6a02f463f044)
+
+ ![Screenshot 2024-09-26 193735](https://github.com/user-attachments/assets/b9d672fc-16a0-42eb-aff1-9e22b749fc1f)
+
+ ![Screenshot 2024-09-26 193751](https://github.com/user-attachments/assets/ba32f481-c572-4808-94e7-70c6f97925b0)
+
+ ![Screenshot 2024-09-26 195055](https://github.com/user-attachments/assets/aeadb87f-e538-46bb-92e9-2879d00681c9)
+
+ ![Screenshot 2024-09-26 195349](https://github.com/user-attachments/assets/b657b2e6-2b58-44c2-8c7d-d55b5c7a46ed)
+
+
+
+
+
+</p>
+<p>
+Open IIS as admin from start menu & register PHP from within IIS (PHP Manager > C:\PHP\php-cgi.exe) > Next Reload ISS (Stop & Start the server)
+
+</p>
+<br />
