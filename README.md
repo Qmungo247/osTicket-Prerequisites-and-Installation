@@ -24,7 +24,7 @@ An outline of the prerequisites and installation of the open-source help desk ti
 - Installation/Enable Internet Information Services (IIS) in Windows with CGI.
   A web server that runs Osticket on the PC. 
 - Installation off PHP Manager for IIS (Backend web server language/Binary. requirement to run OsTicket)
-- Item 4
+- Installation of VC Redist & MySQL Database (Backened data storage)
 - Item 5
 <h2>Installation Steps</h2>
 
