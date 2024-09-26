@@ -23,7 +23,7 @@ An outline of the prerequisites and installation of the open-source help desk ti
 - Download OsTicket Installation Files Software
 - Installation/Enable Internet Information Services (IIS) in Windows with CGI.
   A web server that runs Osticket on the PC. 
-- Item 3
+- Installation off PHP Manager for IIS (Backend web server language. requirement to run OsTicket)
 - Item 4
 - Item 5
 <h2>Installation Steps</h2>
