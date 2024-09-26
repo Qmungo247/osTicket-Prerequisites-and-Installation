@@ -70,7 +70,7 @@ From the "OsTicket Installation Files" Folder downloaded in the frist step. Inst
 </p>
 <p>
 From the "OsTicket Installation Files Folder Install "VC Redist" & "MySQL5.5.62" Typical Setup > Launch Configuration Wizard (after install) >
-Standard Configuration > Username: root Password: root
+Standard Configuration > Next >  Username: root Password: root
 
 </p>
 <br />
