@@ -23,7 +23,7 @@ An outline of the prerequisites and installation of the open-source help desk ti
 - Download OsTicket Installation Files Software
 - Installation/Enable Internet Information Services (IIS) in Windows with CGI.
   A web server that runs Osticket on the PC. 
-- Installation off PHP Manager for IIS (Backend web server language. requirement to run OsTicket)
+- Installation off PHP Manager for IIS (Backend web server language/Binary. requirement to run OsTicket)
 - Item 4
 - Item 5
 <h2>Installation Steps</h2>
@@ -56,7 +56,7 @@ Then expand the folder > Expand "World Wide web services" folder > Expand "Appli
 
 </p>
 <p>
-From the "OsTicket Installation Files" Folder downloaded in the frist step, install PHP Manager for IIS & the Rewrite Module. 
+From the "OsTicket Installation Files" Folder downloaded in the frist step. Install PHP Manager for IIS & the Rewrite Module. Next, Create a New folder in the C: Drive of the PC & label it PHP. Then extract the PHP 7.3.8 folder found in the "OsTicket Installation Files" into the new PHP folder created in the C: Drive.
 </p>
 <br />
 
