@@ -56,7 +56,7 @@ Then expand the folder > Expand "World Wide web services" folder > Expand "Appli
 
 </p>
 <p>
-From the "OsTicket Installation Files" Folder downloaded in the frist step, install PHP Manager for IIS. Next Install Rewrite Module. 
+From the "OsTicket Installation Files" Folder downloaded in the frist step, install PHP Manager for IIS & the Rewrite Module. 
 </p>
 <br />
 
