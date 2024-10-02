@@ -25,7 +25,7 @@ An outline of the prerequisites and installation of the open-source help desk ti
   A web server that runs Osticket on the PC. 
 - Installation off PHP Manager for IIS (Backend web server language/Binary. requirement to run OsTicket)
 - Installation of VC Redist & MySQL Database (Backend data storage)
-- Item 5
+- Installation of HeidiSQL (For connection to the database)  
 <h2>Installation Steps</h2>
 
 <p>
@@ -113,6 +113,45 @@ Enable: php_imap.dll
 Enable: php_intl.dll
 Enable: php_opcache.dll
 Refresh the osTicket site in your browser, observe the changes
+
+![Screenshot 2024-10-02 174211](https://github.com/user-attachments/assets/68f42263-17b3-4857-875b-e41be8ed5064)
+
+
+Next Rename ost-sampleconfig.php to ost-config.php
+From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
+To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+
+Next Assign Permissions from Properties > Security > advanced: ost-config.php
+Disable inheritance -> Remove All
+New Permissions -> Everyone -> All
+
+![Screenshot 2024-10-02 175205](https://github.com/user-attachments/assets/7b0cc60a-7488-4edc-a867-ce7dc64ab256)
+
+Continue setting up OsTicket in the browser (Name Helpdesk, Default Email)
+
+![Screenshot 2024-10-02 181729](https://github.com/user-attachments/assets/8c105936-35ee-405c-ae64-0ce906d3fbc5)
+
+![Screenshot 2024-10-02 181751](https://github.com/user-attachments/assets/c6541e2d-e92b-4432-877a-087aeb24960a)
+
+![Screenshot 2024-10-02 181822](https://github.com/user-attachments/assets/78074fdc-8c09-49a7-8bdd-1b4e175bd39a)
+
+![Screenshot 2024-10-02 181831](https://github.com/user-attachments/assets/86bc2f13-105d-436a-9b48-8d4aac2c12ea)
+
+
+
+Next, From the “osTicket-Installation-Files” folder, install HeidiSQL.
+Open Heidi SQL
+Create a new session, root/root
+Connect to the session
+Create a database called “osTicket”
+
+
+
+
+
+
+
+
 
 
 
