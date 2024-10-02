@@ -95,5 +95,26 @@ Standard Configuration > Next >  Username: root Password: root
 <p>
 Open IIS as admin from start menu & register PHP from within IIS (PHP Manager > C:\PHP\php-cgi.exe) > Next Reload ISS (Stop & Start the server)
 
+  ![Screenshot 2024-10-02 170134](https://github.com/user-attachments/assets/74f35598-aff6-4b1e-9cf9-e487422cd1b9)
+
+
+![Screenshot 2024-10-02 170926](https://github.com/user-attachments/assets/fb4d419f-7d77-4d35-9ae1-87d5c3f320a5)
+
+
+  
+  Next, Install/Extract all "osTicket v1.15.8" folder from the "osTicket-Installation-Files" folder. It should create a new folder with "Scripts" & "Upload" within it. 
+  Then copy the "upload" folder into "C:\inetpub\wwwroot" & rename it "osTicket" Exactly with no space. Next Reload IIS Manager (Start & stop the server)
+
+  ![Screenshot 2024-10-02 172033](https://github.com/user-attachments/assets/42f1ac46-8b7a-4541-906f-8f133d427796)
+
+From within IIS Manager on the left Click "Sites" > Default Web Site > OsTicket then clcik "Browse *:80" on the right.
+Go back to IIS, click sites -> Default -> osTicket. Double-click PHP Manager. Click “Enable or disable an extension”
+Enable: php_imap.dll
+Enable: php_intl.dll
+Enable: php_opcache.dll
+Refresh the osTicket site in your browser, observe the changes
+
+
+
 </p>
 <br />
