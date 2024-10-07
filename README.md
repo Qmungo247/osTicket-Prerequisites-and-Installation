@@ -143,7 +143,7 @@ Next, From the “osTicket-Installation-Files” folder, install HeidiSQL.
 Open Heidi SQL
 Create a new session, username & password- root/root
 Connect to the session
-Create a database called “osTicket”
+Create a new database called “osTicket”
 
 
 
