@@ -107,7 +107,7 @@ Open IIS as admin from start menu & register PHP from within IIS (PHP Manager > 
 
   ![Screenshot 2024-10-02 172033](https://github.com/user-attachments/assets/42f1ac46-8b7a-4541-906f-8f133d427796)
 
-From within IIS Manager on the left Click "Sites" > Default Web Site > OsTicket then clcik "Browse *:80" on the right.
+From within IIS Manager on the left Click "Sites" > Default Web Site > OsTicket then click "Browse *:80" on the right.
 Go back to IIS, click sites -> Default -> osTicket. Double-click PHP Manager. Click “Enable or disable an extension”
 Enable: php_imap.dll
 Enable: php_intl.dll
@@ -144,6 +144,11 @@ Open Heidi SQL
 Create a new session, username & password- root/root
 Connect to the session
 Create a new database called “osTicket”
+Next Continue setting up OsTicket in the browser (MySQL Table prefix)
+MySQL Database: osTicket
+MySQL Username: root
+MySQL Password: root
+Click “Install Now!”
 
 
 
