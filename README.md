@@ -22,7 +22,7 @@ An outline of the prerequisites and installation of the open-source help desk ti
 
 - Download OsTicket Installation Files Software
 - Installation/Enable Internet Information Services (IIS) in Windows with CGI.
-  A web server that runs Osticket on the PC. 
+  (web server that runs Osticket on the PC.) 
 - Installation off PHP Manager for IIS (Backend web server language/Binary. requirement to run OsTicket)
 - Installation of VC Redist & MySQL Database (Backend data storage)
 - Installation of HeidiSQL (For connection to the database)  
@@ -141,7 +141,7 @@ Continue setting up OsTicket in the browser (Name Helpdesk, Default Email)
 
 Next, From the “osTicket-Installation-Files” folder, install HeidiSQL.
 Open Heidi SQL
-Create a new session, root/root
+Create a new session, username & password- root/root
 Connect to the session
 Create a database called “osTicket”
 
