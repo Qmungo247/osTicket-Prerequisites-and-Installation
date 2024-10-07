@@ -144,11 +144,18 @@ Open Heidi SQL
 Create a new session, username & password- root/root
 Connect to the session
 Create a new database called “osTicket”
-Next Continue setting up OsTicket in the browser (MySQL Table prefix)
+
+Next Continue setting up OsTicket in the browser (Database settings)
 MySQL Database: osTicket
 MySQL Username: root
 MySQL Password: root
 Click “Install Now!”
+
+Congratulations, should be installed with no errors!
+Browse to your help desk login page: http://localhost/osTicket/scp/login.php (ADMIN LOGIN)
+
+End Users osTicket URL:
+http://localhost/osTicket/ 
 
 
 
